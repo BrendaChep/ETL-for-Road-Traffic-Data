@@ -1,0 +1,4 @@
+Start Apache Airflow.
+Download the dataset from the source to the destination using wget, Source : https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0250EN-SkillsNetwork/labs/Final%20Assignment/tolldata.tgz
+Destination : /home/project/airflow/dags/finalassignment
+Create a directory for staging area. mkdir /home/project/airflow/dags/finalassignment/staging
